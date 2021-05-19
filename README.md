@@ -46,7 +46,6 @@
     tqdm==4.26.0
 
 ## 声明
-本项目所有代码仅供各位同学学习参考使用。如有任何对代码的问题请邮箱联系：2837292525@qq.com
+本项目所有代码仅供各位同学学习参考使用。
 
-If you have any issue please feel free to contact me at 2837292525@qq.com
 
